@@ -78,11 +78,10 @@
 </div>
 
 
-### Spotify Recentemente Tocado
 
 <div align="center">
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21nf42apvvu2v36zqd3gsi6my&count=10)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21nf42apvvu2v36zqd3gsi6my&count=5)
 
 </div>
 
