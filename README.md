@@ -14,7 +14,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/dza0F8SCVvUAAAAC/johncena-john.gif"  />
+
 
 ###
 
@@ -77,8 +77,8 @@
 
 <div align="center">
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21nf42apvvu2v36zqd3gsi6my&count=10)
-
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21nf42apvvu2v36zqd3gsi6my&count=2)
+<img align="right" height="150" src="https://media.tenor.com/dza0F8SCVvUAAAAC/johncena-john.gif"  />
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/joaoricardorvm/count.svg?"  />
