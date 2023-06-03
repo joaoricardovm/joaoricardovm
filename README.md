@@ -62,7 +62,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
 <p align="center">
 <a href="https://instagram.com/Joaoricardovm"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 <a href="https://linkedin.com/in/JoaoRicardovm"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -72,9 +72,9 @@
 ###
 
 <br clear="both">
-
+<div align="center">
 ![snake gif](https://github.com/joaoricardorvm/joaoricardorvm/blob/output/snake.svg)
-
+</div>
 ###
 
 <div align="center">
