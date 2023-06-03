@@ -1,15 +1,26 @@
-<h2 align="left">Hi there 👋, I'm João Ricardo!</h2>
+<h2 align="left">👋 Olá, eu sou João Ricardo!</h2>
 
-###
+#### 💻 Desenvolvedor Front-end & Mobile | 🌍 Curioso por novas tecnologias 
+
+<div align="center">
+  <a href="https://instagram.com/Joaoricardovm"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/JoaoRicardovm"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joaoricardorvm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=joaoricardorvm&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <h2 align="center">📜 Random Dev Quote</h2>
+</div>
+
+###
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
-</div>
+
+### 💼 Habilidades e Ferramentas
 
 ###
 
@@ -56,31 +67,28 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/oracle/F80000" height="30" alt="oracle logo"  />
 </div>
-
 ###
-
-<div align="left">
-<p align="center">
-<a href="https://instagram.com/Joaoricardovm"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-<a href="https://linkedin.com/in/JoaoRicardovm"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-</div>
-
-###
-
-<br clear="both">
 
 ![snake gif](https://github.com/joaoricardorvm/joaoricardorvm/blob/output/snake.svg)
 
 ###
 
 <div align="center">
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21nf42apvvu2v36zqd3gsi6my&count=10)
-
-
-<div align="center">
   <img src="https://profile-counter.glitch.me/joaoricardorvm/count.svg?"  />
 </div>
 
-###
+  <h2 align="center">📜 Random Dev Quote</h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+</div>
+
+### Spotify Recentemente Tocado
+
+<div align="center">
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21nf42apvvu2v36zqd3gsi6my&count=10)
+
+</div>
+
+
