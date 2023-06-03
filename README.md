@@ -1,23 +1,6 @@
 <h1 align="center">Hi there 👋, I'm João Ricardo!</h1>
 <p align="center">A tech enthusiast who loves solving problems and learning new technologies. Currently, I'm focused on learning React and Flutter.</p>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaoricardorvm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=joaoricardorvm&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <h2 align="center">📜 Random Dev Quote</h2>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-</div>
-
-###
-
-
-
-###
-
 <div align="left">
   <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="30" alt="androidstudio logo"  />
   <img width="12" />
@@ -57,6 +40,25 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/oracle/F80000" height="30" alt="oracle logo"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaoricardorvm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=joaoricardorvm&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <h2 align="center">📜 Random Dev Quote</h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+</div>
+
+###
+
+
+
+###
+
+
 
 ###
 
