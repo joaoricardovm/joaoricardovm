@@ -76,15 +76,8 @@
 
 <div align="center">
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21nf42apvvu2v36zqd3gsi6my&count=7)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21nf42apvvu2v36zqd3gsi6my&count=10)
 
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=21nf42apvvu2v36zqd3gsi6my)](https://open.spotify.com/user/21nf42apvvu2v36zqd3gsi6my)
-
-</div>
-
-### Spotify Recently Played README Generator
-
-Authenticated as 21nf42apvvu2v36zqd3gsi6my
 
 Markdown code snippet:
 
