@@ -79,12 +79,6 @@
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21nf42apvvu2v36zqd3gsi6my&count=10)
 
 
-Markdown code snippet:
-
-```markdown
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21nf42apvvu2v36zqd3gsi6my)
-
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/joaoricardorvm/count.svg?"  />
 </div>
