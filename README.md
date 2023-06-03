@@ -1,10 +1,15 @@
-<h2 align="left">Hi there 👋, I'm João Ricardo!</h2>
+<h1 align="center">Hi there 👋, I'm João Ricardo!</h1>
+<p align="center">A tech enthusiast who loves solving problems and learning new technologies. Currently, I'm focused on learning React and Flutter.</p>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joaoricardorvm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=joaoricardorvm&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <h2 align="center">📜 Random Dev Quote</h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 </div>
 
 ###
@@ -61,12 +66,22 @@
 <a href="https://linkedin.com/in/JoaoRicardovm"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 </div>
-![snake gif](https://github.com/joaoricardorvm/joaoricardorvm/blob/output/snake.svg)
+
 ###
 
 <br clear="both">
-<div align="left">
- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21nf42apvvu2v36zqd3gsi6my&count=5) <img src="https://profile-counter.glitch.me/joaoricardorvm/count.svg?"  />
+
+![snake gif](https://github.com/joaoricardorvm/joaoricardorvm/blob/output/snake.svg)
+
+###
+
+<div align="center">
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21nf42apvvu2v36zqd3gsi6my&count=10)
+
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/joaoricardorvm/count.svg?"  />
 </div>
 
 ###
