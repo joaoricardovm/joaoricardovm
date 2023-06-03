@@ -72,9 +72,7 @@
 ###
 
 <br clear="both">
-<div align="center">
 ![snake gif](https://github.com/joaoricardorvm/joaoricardorvm/blob/output/snake.svg)
-</div>
 ###
 
 <div align="center">
