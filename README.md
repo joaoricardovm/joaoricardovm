@@ -75,13 +75,22 @@
 ###
 
 <div align="center">
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21nf42apvvu2v36zqd3gsi6my)
-  <a href="https://open.spotify.com/user/21nf42apvvu2v36zqd3gsi6my">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=7&unique=false" alt="Spotify recently played"  />
-  </a>
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21nf42apvvu2v36zqd3gsi6my&count=7)
+
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=21nf42apvvu2v36zqd3gsi6my)](https://open.spotify.com/user/21nf42apvvu2v36zqd3gsi6my)
+
 </div>
 
-###
+### Spotify Recently Played README Generator
+
+Authenticated as 21nf42apvvu2v36zqd3gsi6my
+
+Markdown code snippet:
+
+```markdown
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21nf42apvvu2v36zqd3gsi6my)
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/joaoricardorvm/count.svg?"  />
