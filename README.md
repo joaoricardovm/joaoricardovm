@@ -44,11 +44,10 @@
 ###
 
 <div align="center">
-  <h2 align="center">📜 Random Dev Quote</h2>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+  <img src="https://streak-stats.demolab.com?user=joaoricardovm&locale=en&mode=weekly&theme=ayu-mirage&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
 </div>
+
+###
 
 ###
 
@@ -70,11 +69,10 @@
 ###
 
 <br clear="both">
-<div align="center">
 
-![snake gif](https://github.com/joaoricardorvm/joaoricardorvm/blob/output/snake.svg)
+<img src="https://raw.githubusercontent.com/joaoricardovm/joaoricardovm/output/snake.svg" alt="Snake animation" />
 
-</div>
+###
 
 
 ###
