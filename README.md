@@ -79,7 +79,7 @@
 
 <div align="center">
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21nf42apvvu2v36zqd3gsi6my&count=2)
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000161.962cce474e3e49f6be5f9904bd56af01.1408)](https://github.com/rayriffy/apple-music-github-profile)
 <img align="right" height="150" src="https://media.tenor.com/dza0F8SCVvUAAAAC/johncena-john.gif"  />
 
 <div align="center">
