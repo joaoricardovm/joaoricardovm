@@ -74,6 +74,3 @@
 
 ###
 
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000161.962cce474e3e49f6be5f9904bd56af01.1408)](https://github.com/rayriffy/apple-music-github-profile)
-###
-
