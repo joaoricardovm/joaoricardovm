@@ -34,11 +34,6 @@
 
 ## 📊 My GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaoricardovm&radius=16&theme=one-dark&area=true&order=5" height="300" alt="Activity Graph" />
-</div>
-
-<br>
 
 <div align="center">
   <picture>
@@ -50,15 +45,7 @@
 
 ---
 
-## 🎧 Currently Listening To
 
-<div align="center">
-  <a href="https://open.spotify.com/user/21nf42apvvu2v36zqd3gsi6my" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21nf42apvvu2v36zqd3gsi6my&count=5&unique=false" alt="Spotify Recently Played" />
-  </a>
-</div>
-
----
 
 ## 🔗 Let's Connect
 
