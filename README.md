@@ -1,39 +1,66 @@
-<div align="center">
-  <h1>Hi there, I'm João Ricardo 👋</h1>
-  <p>
-    🚀 I'm a Frontend Developer with experience in mobile development! <br>
-    As a tech enthusiast, I'm always on a mission to solve problems and master new technologies. <br>
-    Currently, I'm focused on projects involving web components with Liquid and Redux. 🚀
-  </p>
-</div>
-
----
-
-## 💻 Tech Stack & Tools
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=João%20Ricardo&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Frontend%20Developer%20%7C%20Mobile%20Enthusiast&descAlignY=55&descSize=16)
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript logo" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js logo" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS logo" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="50" alt="Storybook logo" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript logo" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="Flutter logo" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" alt="AngularJS logo" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50" alt="Android Studio logo" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git logo" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5 logo" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux logo" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="50" alt="Markdown logo" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React logo" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" alt="Redux logo" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="50" alt="Slack logo" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="50" alt="Swift logo" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=500&lines=Building+digital+experiences+with+passion;Transforming+ideas+into+code;Always+learning%2C+always+growing" alt="Typing SVG" />
 </div>
 
----
+## 👋 About Me
 
-## 📊 My GitHub Activity
+I'm a **Frontend Developer** passionate about creating exceptional user experiences and mobile applications. Currently focused on building modern web components with Liquid and Redux, I love tackling complex problems and exploring new technologies.
 
+```javascript
+const profile = {
+  name: "João Ricardo",
+  location: "Brazil 🇧🇷",
+  role: "Frontend Developer",
+  
+  currentlyWorking: ["Web Components", "Liquid Framework", "Redux Patterns"],
+  
+  skills: {
+    frontend: ["TypeScript", "React", "Next.js", "Angular", "Redux"],
+    mobile: ["Flutter", "Swift", "Android Studio"],
+    styling: ["Tailwind CSS", "Storybook", "Responsive Design"],
+    tools: ["Git", "Linux", "VS Code", "Figma"]
+  },
+  
+  learning: "Always exploring new technologies and best practices",
+  funFact: "I can debug for hours with just console.log and coffee ☕"
+};
+```
+
+## 🚀 Tech Stack
+
+<div align="center">
+  
+**Frontend Development**  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Mobile Development**  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+
+**Design & Styling**  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+
+</div>
+
+## 📊 GitHub Activity
 
 <div align="center">
   <picture>
@@ -43,25 +70,41 @@
   </picture>
 </div>
 
----
+## 🎯 Current Focus
 
+- 🔨 Building scalable web components with **Liquid Framework**
+- 📱 Creating cross-platform mobile applications
+- 🎨 Implementing modern UI/UX patterns with **Tailwind CSS**
+- 🚀 Optimizing application performance with **Redux**
+- 📚 Learning and sharing knowledge with the dev community
 
-
-## 🔗 Let's Connect
+## 💡 Featured Projects
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/joaoricardovm/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn logo" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/joaoricardovm/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Instagram logo" />
+  <a href="https://github.com/joaoricardovm">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaoricardovm&repo=joaoricardovm&theme=dark&hide_border=true" />
   </a>
 </div>
 
----
-
-## ✨ Profile Views
+## 📫 Let's Connect
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/joaoricardovm/count.svg?" alt="Profile Views Counter"/>
+  
+[![LinkedIn](https://img.shields.io/badge/-João%20Ricardo-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoricardovm/)
+[![Instagram](https://img.shields.io/badge/-@joaoricardovm-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/joaoricardovm/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://seu-portfolio.com)
+
 </div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=joaoricardovm&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
+  
+  <p>
+    <i>Happy coding! Feel free to explore my repositories and don't hesitate to reach out for collaborations.</i> 🚀
+  </p>
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
