@@ -28,7 +28,11 @@ class JoaoRicardo {
   constructor() {
     this.currentCompany = "Assiny Pagamentos";
     this.role = "Frontend Developer";
-    this.workingOn = ["MinhaGranai", "BMAD-METHOD"];
+    this.workingOn = [
+      "MinhaGranai - Financial Admin",
+      "NoWalls - Members Platform", 
+      "BMAD-METHOD"
+    ];
     this.dailyWeapons = {
       languages: ["TypeScript", "JavaScript"],
       frameworks: ["React.js", "Next.js", "Flutter"],
@@ -90,19 +94,25 @@ class JoaoRicardo {
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
+      <td align="center" width="25%">
         <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100">
         <h4>🛒 E-commerce Revolution</h4>
         <p><b>Assiny Checkout</b></p>
         <code>High-Performance Payment Systems</code>
       </td>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100">
-        <h4>🌾 MinhaGranai</h4>
-        <p><b>Agricultural Tech</b></p>
-        <code>Dashboard Development</code>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/67ThRZlYBvibtdF9JH/giphy.gif" width="100">
+        <h4>💰 MinhaGranai</h4>
+        <p><b>Financial Control Admin</b></p>
+        <code>Dashboard & Analytics</code>
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100">
+        <h4>🔐 NoWalls</h4>
+        <p><b>Members Area Platform</b></p>
+        <code>Authentication & Access Control</code>
+      </td>
+      <td align="center" width="25%">
         <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="100">
         <h4>🧬 BMAD-METHOD</h4>
         <p><b>Open Source</b></p>
@@ -155,8 +165,11 @@ class JoaoRicardo {
   <a href="https://www.instagram.com/joaoricardovm">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=Follow&labelColor=8B5CF6" />
   </a>
-  <a href="https://minhagranai.com.br/dashboard">
-    <img src="https://img.shields.io/badge/MinhaGranai-22C55E?style=for-the-badge&logo=webpack&logoColor=white&label=Project&labelColor=8B5CF6" />
+  <a href="https://minhagranai.com.br">
+    <img src="https://img.shields.io/badge/MinhaGranai-22C55E?style=for-the-badge&logo=cashapp&logoColor=white&label=Financial%20Admin&labelColor=8B5CF6" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/NoWalls-FF6B6B?style=for-the-badge&logo=memberstack&logoColor=white&label=Members%20Area&labelColor=8B5CF6" />
   </a>
   <a href="https://github.com/bmad-code-org/BMAD-METHOD">
     <img src="https://img.shields.io/badge/BMAD_METHOD-FF6B6B?style=for-the-badge&logo=github&logoColor=white&label=Contribute&labelColor=8B5CF6" />
