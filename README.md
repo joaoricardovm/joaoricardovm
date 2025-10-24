@@ -29,7 +29,7 @@ class JoaoRicardo {
     this.currentCompany = "Assiny Pagamentos";
     this.role = "Frontend Developer";
     this.workingOn = [
-      "MinhaGranai - Financial Admin",
+      "Financial Admin",
       "NoWalls - Members Platform", 
       "BMAD-METHOD"
     ];
@@ -102,7 +102,7 @@ class JoaoRicardo {
       </td>
       <td align="center" width="25%">
         <img src="https://media.giphy.com/media/67ThRZlYBvibtdF9JH/giphy.gif" width="100">
-        <h4>💰 MinhaGranai</h4>
+        <h4>💰 Freelance</h4>
         <p><b>Financial Control Admin</b></p>
         <code>Dashboard & Analytics</code>
       </td>
